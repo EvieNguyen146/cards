@@ -45,7 +45,7 @@ html {
 .cards dt {
   display: inline-block;
   width: 6em;
-  font-size: italic;
+  font-style: italic;
 }
 
 .card dd {
