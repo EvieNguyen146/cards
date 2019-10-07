@@ -48,7 +48,7 @@ html {
   font-style: italic;
 }
 
-.card dd {
+.cards dd {
   display: inline-block;
   margin: 0;
   min-width: 9em;
